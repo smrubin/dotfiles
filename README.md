@@ -1,4 +1,4 @@
-A collection of useful dot files and config files.
+A collection of useful dot files and config files and development setup.
 
 # Mac Dev Setup
 
@@ -20,6 +20,7 @@ A collection of useful dot files and config files.
 
 `npm i -g`
 
+* babel-eslint
 * bower
 * eslint
 * firebase-tools
@@ -30,3 +31,26 @@ A collection of useful dot files and config files.
 * jekyll
 * npm
 * yo
+
+## Sublime Packages
+
+* A File Icon
+* Babel
+* BracketHighlighter
+* Dockerfile Syntax Highlighting
+* DoxyDoxygen
+* Emmet
+* ESLint
+* GitGutter
+* JavaScript Completions
+* Package Control
+* Pretty JSON
+* SCSS
+* SideBarEnhancements
+* SublimeCodeIntel
+* SublimeLinter
+* SublimeLinter-contrib-eslint
+* SublimeLinter-html-tidy
+* SublimeLinter-jshint
+* Theme - Flatland
+* Theme - Monokai
