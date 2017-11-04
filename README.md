@@ -2,6 +2,16 @@ A collection of useful dot files and config files and development setup.
 
 # Mac Dev Setup
 
+## Apps
+
+* Spectacle
+* Postman
+* pgAdmin3
+* RoboMongo
+* MySQL Workbench
+* Sublime Text 3
+* iTerm
+
 ## Brew Packages
 
 `brew install`
@@ -25,10 +35,12 @@ A collection of useful dot files and config files and development setup.
 * eslint
 * firebase-tools
 * generator-angular-fullstack
+* generator-fountain-angular1
 * grunt
 * gulp-cli
 * http-server
 * jekyll
+* n
 * npm
 * yo
 
